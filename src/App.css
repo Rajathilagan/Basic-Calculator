@@ -1,0 +1,8 @@
+.bg-container{
+  background-color:rgb(143, 143, 223);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
